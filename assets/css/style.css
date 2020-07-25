@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Exo:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+/*------------------------------------------------Colors */
+
+.bg-color-header {
+    background-color: #e04d4d;
+}
+
+.bg-color-menu {
+    background-color: #6d6d6d;
+}
+
+
+/*------------------------------------------------Hover.css */
+
+.hvr-sweep-to-bottom:before {
+    background: rgba(0,0,0,0.2);
+    height: 46px;
+}
+
+
+/*------------------------------------------------Header */
+
+header {
+    margin: 0;
+}
+
+.logo {
+    background: url("../images/SelseyCCLogo3.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: contain;
+    min-height: 100px;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+.club-name {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-size: 30px;
+    margin-top: 30px;
+    color: #fafafa;
+    text-align: left;
+    text-transform: uppercase;
+    text-decoration: none;
+    transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+}
+
+#nav li {
+    font-size: 14px;
+}
+
+#nav a {
+    display: inline-block;
+}
+
+.menuitem {
+    height: 30px;
+    text-align: center;
+    padding: 0;
+}
+
+.menuitem a {
+    width: 100%;
+    font-weight: 100;
+    color: #fafafa;
+    text-decoration: none;
+    height: 30px;
+    padding-top: 10px;
+    display: block;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+
+.heading {
+    padding-left: 30px;
+}
+
+.menu-list {
+    padding-left: 130px;
+}
+
+/*------------------------------------------------Section */
+
+.banner-container {
+    height: 100vh;
+    background: url("../images/Homepage-Banner-Image.jpg") no-repeat bottom right fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.opaque-overlay {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.block-divider--red {
+    background-color: #e04d4d;
+}
+
+.banner-heading {
+    font-family: "Roboto", sans-serif;
+    font-weight: 200;
+    font-size: 20px;
+    margin-top: 30px;
+    color: #fafafa;
+    text-align: right;
+    text-transform: uppercase; 
+    margin-bottom: 30px;   
+}
+
+/*------------------------------------------------Footer */
+
+footer {
+    background-color: #e04d4d;
+    color: #fafafa;
+    min-height: 120px;
+    margin: 0;
+}
+
+.social-links {
+    padding-bottom: 15px;
+}
+
+.social-links li a i {
+    width: 32px;
+    height: 32px;
+    padding: 12px 0;
+    border-radius: 50%;
+    font-size: 13px;
+    line-height: 7px;
+    text-align: center;
+    color: #fafafa;
+    background: #8f8f8f;
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
+}
+
+.social-links li a i:hover {
+    background: #912b0a;
+}
+
+#footer-details {
+    padding-top: 50px;
+}
+/*------------------------------------------------Special paddings/margins/text */
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.general-sub {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    color: #fafafa;    
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+
