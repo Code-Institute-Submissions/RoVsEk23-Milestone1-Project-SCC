@@ -87,9 +87,9 @@ header {
     padding-left: 130px;
 }
 
-/*------------------------------------------------Section */
+/*------------------------------------------------Home Section */
 
-.banner-container {
+.home-banner-container {
     height: 100vh;
     background: url("../images/Homepage-Banner-Image.jpg") no-repeat bottom right fixed; 
     -webkit-background-size: cover;
@@ -111,19 +111,51 @@ header {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
+.block-divider {
+    width: 150px;
+    height: 5px;
+    border: 0;
+    background-color: #444;
+}
+
 .block-divider--red {
     background-color: #e04d4d;
 }
 
 .banner-heading {
     font-family: "Roboto", sans-serif;
-    font-weight: 200;
+    font-weight: 300;
     font-size: 20px;
     margin-top: 30px;
     color: #fafafa;
     text-align: right;
     text-transform: uppercase; 
-    margin-bottom: 30px;   
+    margin-bottom: 10px;   
+}
+
+.description {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-size: 14px;
+    margin-top: 10px;
+    color: #fafafa;
+    text-align: right;
+    margin-bottom: 30px;  
+}
+
+/*------------------------------------------------About Section */
+
+.about-banner-container {
+    height: 100vh;
+    background: url("../images/About-Banner-Image.jpg") no-repeat bottom right fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
 }
 
 /*------------------------------------------------Footer */
