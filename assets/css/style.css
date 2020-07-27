@@ -35,6 +35,7 @@
 .hvr-sweep-to-bottom:before {
     background: rgba(0,0,0,0.2);
     height: 46px;
+    width: 100%;
 }
 
 
@@ -103,6 +104,10 @@ header {
     padding-left: 130px;
 }
 
+.list-inline-item:not(:last-child) {
+    margin-right: 0px;
+}
+
 /*------------------------------------------------Home Section */
 
 .home-banner-container {
@@ -138,7 +143,7 @@ header {
     background-color: #e04d4d;
 }
 
-.banner-heading {
+.home-banner-heading {
     font-family: "Roboto", sans-serif;
     font-weight: 300;
     font-size: 20px;
@@ -146,7 +151,8 @@ header {
     color: #fafafa;
     text-align: center;
     text-transform: uppercase; 
-    margin-bottom: 10px;   
+    margin-bottom: 10px; 
+    letter-spacing: 1px;  
 }
 
 .description {
@@ -311,5 +317,5 @@ footer {
 }
 
 .btn-home {
-    margin-left: 60px;
+    margin-left: 90px;
 }
