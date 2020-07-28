@@ -108,7 +108,7 @@ header {
     margin-right: 0px;
 }
 
-/*------------------------------------------------Home Section */
+/*------------------------------------------------Home Page */
 
 .home-banner-container {
     height: 100vh;
@@ -165,7 +165,7 @@ header {
     margin-bottom: 30px;  
 }
 
-/*------------------------------------------------About Section */
+/*------------------------------------------------About Us Page */
 
 .about-banner-container {
     height: 40vh;
@@ -199,7 +199,7 @@ header {
     font-weight: 200;
 }
 
-/*------------------------------------------------Teams Section */
+/*------------------------------------------------Teams Page */
 
 .teams-banner-container {
     height: 50vh;
@@ -231,6 +231,72 @@ header {
 .team-list {
     padding-left: 90px;
 }
+
+/*------------------------------------------------Contact Us Page */
+
+.contact-banner-container {
+    height: 70vh;
+    background: url("../images/Contact-Banner-Image.jpg") no-repeat bottom right fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
+
+.opaque-overlay {
+    position: relative;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.form-section {
+    position: center;
+}
+
+.signup-form {
+    margin-top: 10px;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 400px;
+    position: relative;
+    padding: 30px;
+}
+
+.signup-form h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+.text-input:hover{ 
+    border-color: #f16c6b;
+}
+
+.btn-contact {
+    margin-left: 70px;
+}
+
+.signup-form-heading {
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-weight: 300;
+    color: #fafafa
+}
+
 /*------------------------------------------------Footer */
 
 footer {
@@ -281,6 +347,10 @@ footer {
 
 .inline-block {
     display: inline-block;
+}
+
+.h2, h2 {
+    font-size: 1.5rem;
 }
 
 /*------------------------------------------------Registration / Sign Up button*/
