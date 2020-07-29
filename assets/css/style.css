@@ -30,6 +30,10 @@
     background-color: #f4f4f4;
 }
 
+.bg-color-gallery {
+    background-color: #c7c5c5;
+}
+
 /*------------------------------------------------Hover.css */
 
 .hvr-sweep-to-bottom:before {
@@ -231,6 +235,38 @@ header {
 
 .team-list {
     padding-left: 90px;
+}
+
+/*------------------------------------------------Gallery Page */
+
+.gallery-images {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.gallery-images img{
+    width: 100%;
+}
+
+.gallery-images {
+    column-count:3;
+}
+
+@media screen and (max-width: 800px) {
+    .gallery-images {
+     column-count:2;
+}
+}
+
+.gallery-signup-btn {
+    position: relative;
+    padding-left: 0;
+    padding-right: 0;
+    margin: auto;
 }
 
 /*------------------------------------------------Contact Us Page */
