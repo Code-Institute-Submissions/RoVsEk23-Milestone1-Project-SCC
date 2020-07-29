@@ -267,6 +267,7 @@ header {
     padding-left: 0;
     padding-right: 0;
     margin: auto;
+    margin-bottom: 30px;
 }
 
 /*------------------------------------------------Contact Us Page */
@@ -295,6 +296,7 @@ header {
  #map {
    position: relative;
    margin-bottom: 15px;
+   padding-top: 30px
 }
 
  @media(min-width:992px) {
@@ -306,7 +308,7 @@ header {
 }
 }
 
-@media (min-width: 768px) {
+@media (min-width:768px) {
 .map-section { 
         flex: 0;
 }
@@ -341,6 +343,7 @@ header {
     position: relative;
     padding: 30px;
     margin: auto;
+    margin-bottom: 30px;
 }
 
 .signup-form h2 {
