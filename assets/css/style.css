@@ -35,7 +35,7 @@
 }
 
 .bg-color-officers {
-    background-color: #f8ecec;
+    background-color: #f7f2f2;
 }
 
 /*------------------------------------------------Hover.css */
@@ -46,6 +46,17 @@
     width: 100%;
 }
 
+.club-name:hover {
+    text-decoration: none;
+}
+
+.text-input:hover{ 
+    border-color: #f16c6b;
+}
+
+.social-links li a i:hover {
+    background: #912b0a;
+}
 
 /*------------------------------------------------Header */
 
@@ -65,17 +76,20 @@ header {
 }
 
 .club-name {
-    font-family: "Roboto", sans-serif;
-    font-weight: 300;
-    font-size: 30px;
-    margin-top: 30px;
-    color: #fafafa;
     text-align: left;
     text-transform: uppercase;
     text-decoration: none;
     transition: all .5s ease-in-out;
     -moz-transition: all .5s ease-in-out;
     -webkit-transition: all .5s ease-in-out;
+}
+
+.header-heading {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-size: 30px;
+    margin-top: 25px;
+    color: #fafafa;
 }
 
 #nav li {
@@ -211,7 +225,7 @@ header {
 /*------------------------------------------------Teams Page */
 
 .teams-banner-container {
-    height: 50vh;
+    height: 40vh;
     background: url("../images/Teams-Banner-Image.jpg") no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -239,6 +253,21 @@ header {
 
 .team-list {
     padding-left: 90px;
+}
+
+.officers-header {
+    margin-top: 20px;
+    margin-bottom: 0;
+    border-bottom: 0;
+    text-align: center;
+}
+
+.officers-heading {
+    text-align: center;
+}
+
+.officers-list {
+    text-align: left;
 }
 
 /*------------------------------------------------Gallery Page */
@@ -338,7 +367,7 @@ header {
  }
 
 .form-section {
-    position: center;
+    position: relative;
     margin-bottom: 20px;
     margin-top: 20px;
 }
@@ -373,9 +402,6 @@ header {
     margin: 5px 0 20px 0;
     border: 1px solid #fafafa;
     border-radius: 2px;
-}
-.text-input:hover{ 
-    border-color: #f16c6b;
 }
 
 .btn-contact {
@@ -424,10 +450,6 @@ footer {
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
     -o-transition: all 0.35s ease-in-out;
-}
-
-.social-links li a i:hover {
-    background: #912b0a;
 }
 
 #footer-details {
