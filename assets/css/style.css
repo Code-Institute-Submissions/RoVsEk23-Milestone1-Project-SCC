@@ -31,7 +31,11 @@
 }
 
 .bg-color-gallery {
-    background-color: #c7c5c5;
+    background-color: #e9e7e7;
+}
+
+.bg-color-officers {
+    background-color: #f8ecec;
 }
 
 /*------------------------------------------------Hover.css */
@@ -272,7 +276,7 @@ header {
 
 /*------------------------------------------------Contact Us Page */
 
-.contact-banner-container {
+.form-banner-container {
     background: url("../images/Contact-Banner-Image.jpg") no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -293,6 +297,17 @@ header {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
+.map-banner-container {
+    background: url("../images/Maps-Banner-Image.jpg") no-repeat bottom right fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+}
  #map {
    position: relative;
    margin-bottom: 15px;
@@ -319,27 +334,27 @@ header {
     text-align: left;
     font-weight: 200;
     font-size: 12px;
-    color: #fff;
+    color: #fafafa;
  }
 
 .form-section {
     position: center;
-    margin-bottom: 600px;
+    margin-bottom: 20px;
+    margin-top: 20px;
 }
 
-@media(min-width:992px) {
+@media(min-width:776px) {
     .form-section {
         padding-top: 30px;
         margin: 0 auto;
         min-height: 240px;
-        max-width: 50%;
+        max-width: 60%;
 }
 }
 
 .signup-form {
     color: #fff;
     background-color: rgba(60, 60, 60, 0.6);
-    max-width: 400px;
     position: relative;
     padding: 30px;
     margin: auto;
@@ -364,7 +379,7 @@ header {
 }
 
 .btn-contact {
-    margin-left: 70px;
+    margin-left: 10px;
 }
 
 .signup-form-heading {
