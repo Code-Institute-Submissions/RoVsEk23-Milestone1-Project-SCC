@@ -306,7 +306,7 @@ header {
 /*------------------------------------------------Contact Us Page */
 
 .form-banner-container {
-    background: url("../images/Contact-Banner-Image.jpg") no-repeat bottom right fixed; 
+    background: url("../images/Signup-Banner-Image.jpg") no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -327,7 +327,7 @@ header {
 }
 
 .map-banner-container {
-    background: url("../images/Maps-Banner-Image.jpg") no-repeat bottom right fixed; 
+    background: url("../images/Maps-Banner-Image2.jpg") no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -497,6 +497,7 @@ footer {
     color: #fafafa;
     background-color: #e04d4d;
     border-color: #e04d4d;
+    text-transform: uppercase;
 }
 
 .btn--red:hover,
