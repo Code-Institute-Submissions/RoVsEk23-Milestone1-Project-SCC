@@ -2,9 +2,11 @@ This is the first Milestone Project undertaken as part of the course for the Ful
 
 Project Name: Selsey Cricket Club – Official Website
 
+Wireframes for desktop and mobile added to wireframes folder.
+
 Selsey Cricket Club is a fictional cricket club formed of cricket players who live in and around Crawley, West Sussex. They play recreational cricket on weekends and currently have three teams that play pre-scheduled games with other similar teams during the summer.
-The principle purpose of the website is to provide an online presence for club and generate interest and membership from local players to expand the club.
-The this a static site that was developed using HTML, CSS and Bootstrap. Other tools used are Google Fonts and Font Awesome.
+The principle purpose of the website is to provide an online presence for the club and generate interest and membership from local players to expand the club.
+This is a a static site that was developed using HTML, CSS and Bootstrap. Other tools used are Google Fonts and Font Awesome.
 The site consists of 5 pages.
 1.	Homepage
 2.	About Us Page
@@ -38,6 +40,7 @@ Elements of footer layout used from UCD resume project.
 Block divider element on Home, About Us, Teams pages used from Whiskey Drop project.
 Image layout on gallery page used from Love Running project.
 Styling for Sign Up form on Contact Us page used form Love Running project.
+Usage of Sign Up button on every page to provide the user as many chances as possible to enter details which is the main objective of the website.
 
 Images -
 
