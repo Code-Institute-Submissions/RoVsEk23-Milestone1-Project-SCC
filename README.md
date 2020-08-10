@@ -4,9 +4,11 @@ Project Name: Selsey Cricket Club – Official Website
 
 Wireframes for desktop and mobile added to wireframes folder.
 
+Technology
+The this a static site that was developed using HTML, CSS and Bootstrap. Other tools used are Google Fonts and Font Awesome.
+
 Selsey Cricket Club is a fictional cricket club formed of cricket players who live in and around Crawley, West Sussex. They play recreational cricket on weekends and currently have three teams that play pre-scheduled games with other similar teams during the summer.
 The principle purpose of the website is to provide an online presence for the club and generate interest and membership from local players to expand the club.
-This is a a static site that was developed using HTML, CSS and Bootstrap. Other tools used are Google Fonts and Font Awesome.
 The site consists of 5 pages.
 1.	Homepage
 2.	About Us Page
@@ -49,4 +51,41 @@ Banner image on About Us page is an aerial of a small town similar to Crawley We
 Banner image of different coloured leaves on the on the Teams page symbolises the different ethnicities, ages and skill levels of players within the teams.
 Images on the gallery page give the user a view of the team compositions.
 The two banner images on the contact us page have been chosen to contrast the form styling and map section.
+
+User stories A– 
+A.	As a cricket player, I am looking for options with local cricket clubs.
+Acceptance Criteria – 
+1.	User has options on every page to register and receive additional information.
+2.	Able to link to various social media profiles of the club.
+3.	Able to view the club composition, players list and club officials.
+4.	Able to see history and fee structure.
+5.	Able to see players and team environment.
+6.	Able to view ground location.
+7.	Able to view local playing conditions.
+
+User stories B– 
+B.	As someone who is interested in cricket, I am looking to learn more about local cricket clubs.
+Acceptance Criteria – 
+1.	User has options on every page to register and receive additional information.
+2.	Able to link to various social media profiles of the club.
+3.	Able to view the club composition, players list and club officials.
+4.	Able to view ground location.
+
+User stories C– 
+C.	As a current member of the club, I would like to see what information I can get on a regular basis.
+Acceptance Criteria – 
+1.	Able to view local playing conditions.
+2.	Able to link to various social media profiles of the club.
+3.	Able to see player images on the gallery.
+4.	Able to view ground location.
+
+Deployment
+The project was deployed to GitHub pages by the following steps
+1.	Login to GitHub and select the project repository
+2.	Click on settings on the project menu
+3.	Locate the GitHub pages section
+4.	Under source,  select master branch from the dropdown menu keeping folder as root and then save.
+5.	The GitHub page source is then saved. 
+6.	Refresh the page and the site link is displayed under GitHub pages. 
+7.	https://rovsek23.github.io/Milestone1-Project-SCC/
 
