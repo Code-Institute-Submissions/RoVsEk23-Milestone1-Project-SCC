@@ -130,6 +130,21 @@ header {
     margin-right: 0px;
 }
 
+/*------------------------------------------------Hamburger */
+
+.hamburger {
+    background-color: transparent;
+    border: 0;
+    color: #fafafa;
+    font-size: 40px;
+    display: none;
+    cursor: pointer;
+}
+
+.hamburger:focus {
+    outline: none;
+}
+
 /*------------------------------------------------Home Page */
 
 .home-banner-container {
@@ -216,10 +231,25 @@ header {
     margin-bottom: 15px;
 }
 
+.page-heading {
+    font-family: "Exo", sans-serif;
+    text-align: center;
+    font-weight: 400;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
 .para-text {
     font-family: "Roboto", sans-serif;
     font-weight: 200;
     text-align: left;
+}
+
+.block-divider--grey {
+    width: 100px;
+    height: 5px;
+    border: 0;
+    background-color: #444;
 }
 
 /*------------------------------------------------Teams Page */
@@ -289,12 +319,6 @@ header {
     column-count:3;
 }
 
-@media screen and (max-width: 800px) {
-    .gallery-images {
-     column-count:2;
-}
-}
-
 .gallery-signup-btn {
     position: relative;
     padding-left: 0;
@@ -345,21 +369,6 @@ header {
    margin: auto;
 }
 
- @media(min-width:992px) {
-    .map-section {
-        padding-top: 30px;
-        margin: 0 auto;
-        min-height: 240px;
-        max-width: 50%;
-}
-}
-
-@media (min-width:768px) {
-.map-section { 
-        flex: 0;
-}
-}        
-
 .directions {
     font-family: "Roboto", sans-serif;
     text-align: left;
@@ -375,15 +384,6 @@ header {
     position: relative;
     margin-bottom: 20px;
     margin-top: 20px;
-}
-
-@media(min-width:776px) {
-    .form-section {
-        padding-top: 30px;
-        margin: 0 auto;
-        min-height: 240px;
-        max-width: 60%;
-}
 }
 
 .signup-form {
@@ -518,4 +518,46 @@ footer {
     display: block;
     max-width: 300px;
     margin: auto;
+}
+
+/*------------------------------------------------Media Queries */
+
+@media screen and (max-width: 800px) {
+    .gallery-images {
+     column-count:2;
+}
+    .menu-list {
+        display: none;
+}
+    .menu-list.show {
+        display: flex;
+    }
+    .hamburger {
+        display: block;
+        float:right;
+}
+}
+
+ @media(min-width:992px) {
+    .map-section {
+        padding-top: 30px;
+        margin: 0 auto;
+        min-height: 240px;
+        max-width: 50%;
+}
+}
+
+@media (min-width:768px) {
+.map-section { 
+        flex: 0;
+}
+}  
+
+@media(min-width:776px) {
+    .form-section {
+        padding-top: 30px;
+        margin: 0 auto;
+        min-height: 240px;
+        max-width: 60%;
+}
 }
