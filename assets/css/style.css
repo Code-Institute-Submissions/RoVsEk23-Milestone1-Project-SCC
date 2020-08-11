@@ -65,7 +65,7 @@ header {
 }
 
 .logo {
-    background: url("../images/SelseyCCLogo3.png");
+    background: url("../images/selseycclogo3.png");
     background-position: right;
     background-repeat: no-repeat;
     background-size: contain;
@@ -149,7 +149,7 @@ header {
 
 .home-banner-container {
     height: 100vh;
-    background: url("../images/Homepage-Banner-Image.jpg") no-repeat bottom right fixed; 
+    background: url("../images/homepage-banner-image.jpg") no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -206,7 +206,7 @@ header {
 
 .about-banner-container {
     height: 40vh;
-    background: url("../images/About-Banner-Image.jpg") no-repeat bottom right fixed; 
+    background: url("../images/about-banner-image.jpg") no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -256,7 +256,7 @@ header {
 
 .teams-banner-container {
     height: 40vh;
-    background: url("../images/Teams-Banner-Image.jpg") no-repeat bottom right fixed; 
+    background: url("../images/teams-banner-image.jpg") no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -330,7 +330,7 @@ header {
 /*------------------------------------------------Contact Us Page */
 
 .form-banner-container {
-    background: url("../images/Signup-Banner-Image.jpg") no-repeat bottom right fixed; 
+    background: url("../images/signup-banner-image.jpg") no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -351,7 +351,7 @@ header {
 }
 
 .map-banner-container {
-    background: url("../images/Maps-Banner-Image2.jpg") no-repeat bottom right fixed; 
+    background: url("../images/maps-banner-image2.jpg") no-repeat bottom right fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
