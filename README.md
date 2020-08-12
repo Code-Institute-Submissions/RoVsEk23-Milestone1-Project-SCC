@@ -18,6 +18,13 @@ The site consists of a
 4.	Gallery Page
 5.	Contact Us page
 
+### WIREFRAMES - 
+
+1. https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=7bdc4e95-3318-475f-84be-c1f781695216
+
+2. https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=0606e596-2215-4d3f-911b-a5bf39ffc695
+
+
 ### User stories A– 
 As a cricket player, I am looking for options with local cricket clubs.
 
