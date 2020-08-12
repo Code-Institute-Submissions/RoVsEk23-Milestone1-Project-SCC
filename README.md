@@ -1,10 +1,12 @@
-README.md
+# README.md
 
-Project Name: Selsey Cricket Club – Official Website
+## Project Name: Selsey Cricket Club – Official Website 
+
 This is the first Milestone Project undertaken as part of the course for the Full stack developer certification from Code Institute.
 The principle purpose of the website is to provide an online presence for a cricket club and generate interest and membership from local players to expand the club.
 
-UX -
+### UX -
+
 Selsey Cricket Club is a fictional cricket club formed of cricket players of all age groups and playing abilities who live in and around Crawley, West Sussex. They play recreational cricket on weekends and currently have three teams that play pre-scheduled games with other similar teams during the summer.
 Selsey Cricket club is always looking for new players to expand. They are looking to grow the number of teams and add new memberships.
 This site is designed with the purpose of presenting the user with an insight to the club culture and to solicit interest from potential new members.
@@ -16,7 +18,7 @@ The site consists of a
 4.	Gallery Page
 5.	Contact Us page
 
-User stories A– 
+### User stories A– 
 As a cricket player, I am looking for options with local cricket clubs.
 
 Acceptance Criteria – 
@@ -29,18 +31,30 @@ Acceptance Criteria –
 7.	Able to view local playing conditions.
 
 Images - 
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image1.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image2.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image3.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image4.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image5.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image6.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image7.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image8.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image9.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image10.JPG
 
-User stories B– 
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=7c14733a-b795-42a0-8576-42f3cee6c6cc
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=7c14733a-b795-42a0-8576-42f3cee6c6cc
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=bdbfcf72-69cd-4b35-9fa5-243f6199e770
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=545f1af2-3b77-4509-8b5a-75132f019151
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=00cf343e-6150-414e-8cd7-dd9d0a4f23d2
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=51122535-8101-4bbf-9bd5-438c1fab885a
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=8dab2aee-630a-49fa-bfa2-5e3ae3a53b94
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=9a349762-e673-4bc6-a1ed-eeb3b940d571
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=8a98750d-491d-426f-aaa2-ff51b50decb3
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=6ae3979f-8b9b-4c18-9f4d-0e4ed5140945
+
+
+
+### User stories B– 
 As someone who is interested in cricket, I am looking to learn more about local cricket clubs.
 
 Acceptance Criteria – 
@@ -50,19 +64,30 @@ Acceptance Criteria –
 4.	Able to view ground location.
 
 Images - 
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image1.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image2.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image3.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image4.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image5.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image6.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image7.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image8.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image9.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image10.JPG
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=7c14733a-b795-42a0-8576-42f3cee6c6cc
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=7c14733a-b795-42a0-8576-42f3cee6c6cc
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=bdbfcf72-69cd-4b35-9fa5-243f6199e770
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=545f1af2-3b77-4509-8b5a-75132f019151
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=00cf343e-6150-414e-8cd7-dd9d0a4f23d2
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=51122535-8101-4bbf-9bd5-438c1fab885a
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=8dab2aee-630a-49fa-bfa2-5e3ae3a53b94
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=9a349762-e673-4bc6-a1ed-eeb3b940d571
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=8a98750d-491d-426f-aaa2-ff51b50decb3
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=6ae3979f-8b9b-4c18-9f4d-0e4ed5140945
 
 
-User stories C– 
+
+### User stories C– 
 As a current member of the club, I would like to see what information I can get on a regular basis.
 
 Acceptance Criteria – 
@@ -72,33 +97,45 @@ Acceptance Criteria –
 4.	Able to view ground location.
 
 Images - 
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image1.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image2.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image3.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image4.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image5.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image6.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image7.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image8.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image9.JPG
-https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image10.JPG
 
-FEATURES – 
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=7c14733a-b795-42a0-8576-42f3cee6c6cc
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=7c14733a-b795-42a0-8576-42f3cee6c6cc
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=bdbfcf72-69cd-4b35-9fa5-243f6199e770
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=545f1af2-3b77-4509-8b5a-75132f019151
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=00cf343e-6150-414e-8cd7-dd9d0a4f23d2
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=51122535-8101-4bbf-9bd5-438c1fab885a
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=8dab2aee-630a-49fa-bfa2-5e3ae3a53b94
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=9a349762-e673-4bc6-a1ed-eeb3b940d571
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=8a98750d-491d-426f-aaa2-ff51b50decb3
+
+https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=6ae3979f-8b9b-4c18-9f4d-0e4ed5140945
+
+
+
+### FEATURES – 
 1.	Feature 1 – Every page has a Sign up button that links to the Sign Up form on the Contact Us page. The purpose having the Sign up button on every page is to give the user many opportunities to sign up as they navigate through the site. 
 2.	Feature 2 – Gives the user information on club history, membership options and a fee structure.
 3.	Feature 3 – Gives the user insight to the various playing members and club administration officials.
 4.	Feature 4 – Displays images of members in action.
 5.	Feature 5 – Provides a registration/sign up page, displays a map to the club location with directions, provides a weather widget to display playing conditions.
 
-TECHNOLOGY – 
+### TECHNOLOGY – 
 
 This a static site that was developed using HTML, CSS and Bootstrap. Other tools used are Google Fonts and Font Awesome.
 
-TESTING – 
+### TESTING – 
 
 Responsive testing was conducted on all pages as well as testing on various mobile devices and tablets suing Chrome developer tools.
 
-DEPLOYMENT – 
+### DEPLOYMENT – 
 
 The project was deployed to GitHub pages by the following steps
 1.	Login to GitHub and select the project repository
@@ -109,9 +146,9 @@ The project was deployed to GitHub pages by the following steps
 6.	Refresh the page and the site link is displayed under GitHub pages. 
 7.	https://rovsek23.github.io/Milestone1-Project-SCC/
 
-CREDITS – 
+### CREDITS – 
 
-External Resources - 
+### External Resources - 
 
 https://unsplash.com/ was primarily used to download images for banners across all pages.
 The following pages were used to source images for the Gallery page.
@@ -152,7 +189,7 @@ Image layout on gallery page used from Love Running project.
 
 Styling for Sign Up form on Contact Us page used form Love Running project.
 
-Images -
+### IMAGES -
 
 Background image on Homepage is a view of general club cricket playing conditions and what the user can expect a game of cricket to look like.
 
