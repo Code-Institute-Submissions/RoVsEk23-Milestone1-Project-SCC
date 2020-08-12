@@ -124,6 +124,8 @@ header {
 
 .menu-list {
     padding-left: 130px;
+    flex-wrap: wrap;
+    display: flex;
 }
 
 .list-inline-item:not(:last-child) {
@@ -528,6 +530,8 @@ footer {
 }
     .menu-list {
         display: none;
+        width: 100%;
+        flex-direction: column;
 }
     .menu-list.show {
         display: flex;
@@ -535,6 +539,9 @@ footer {
     .hamburger {
         display: block;
         float:right;
+}
+    #nav.show {
+        display: flex;
 }
 }
 

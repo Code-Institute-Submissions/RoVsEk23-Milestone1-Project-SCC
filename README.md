@@ -28,6 +28,18 @@ Acceptance Criteria –
 6.	Able to view ground location.
 7.	Able to view local playing conditions.
 
+Images - 
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image1.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image2.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image3.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image4.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image5.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image6.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image7.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image8.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image9.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image10.JPG
+
 User stories B– 
 As someone who is interested in cricket, I am looking to learn more about local cricket clubs.
 
@@ -37,6 +49,19 @@ Acceptance Criteria –
 3.	Able to view the club composition, players list and club officials.
 4.	Able to view ground location.
 
+Images - 
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image1.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image2.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image3.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image4.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image5.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image6.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image7.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image8.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image9.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image10.JPG
+
+
 User stories C– 
 As a current member of the club, I would like to see what information I can get on a regular basis.
 
@@ -45,6 +70,18 @@ Acceptance Criteria –
 2.	Able to link to various social media profiles of the club.
 3.	Able to see player images on the gallery.
 4.	Able to view ground location.
+
+Images - 
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image1.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image2.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image3.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image4.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image5.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image6.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image7.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image8.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image9.JPG
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/a08e877b3ce0d196bdd5dc2251473d7b94d809ed/assets/images/readme-image10.JPG
 
 FEATURES – 
 1.	Feature 1 – Every page has a Sign up button that links to the Sign Up form on the Contact Us page. The purpose having the Sign up button on every page is to give the user many opportunities to sign up as they navigate through the site. 
@@ -56,7 +93,10 @@ FEATURES –
 TECHNOLOGY – 
 
 This a static site that was developed using HTML, CSS and Bootstrap. Other tools used are Google Fonts and Font Awesome.
+
 TESTING – 
+
+Responsive testing was conducted on all pages as well as testing on various mobile devices and tablets suing Chrome developer tools.
 
 DEPLOYMENT – 
 
@@ -95,6 +135,8 @@ Google maps Embed link was used on the contact us page.
 Text for map directions on the contact us page was taken from https://crawley.gov.uk/culture/parks-and-open-spaces/gardens-and-parks/goffs-park. 
 
 The source of the weather widget used on the contact us page was https://weatherwidget.io/.
+
+This tutorial on YouTube helped me generate the collapsable hamburger navbar menu. https://www.youtube.com/watch?v=ydZc17rlR5E .
 
 Site logo was generated using https://www.freelogodesign.org/.
 
