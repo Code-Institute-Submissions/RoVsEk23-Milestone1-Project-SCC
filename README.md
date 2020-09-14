@@ -42,8 +42,8 @@ Acceptance Criteria –
 
 Images - 
 
-<img src="assets/images/readme-image1.JPG" width=300> <img src="assets/images/readme-image2.JPG" width=200> <img src="assets/images/readme-image3.JPG" width=250>
-<img src="assets/images/readme-image4.JPG" width=250> <img src="assets/images/readme-image5.JPG" width=200> <img src="assets/images/readme-image6.JPG" width=250>
+<img src="assets/images/readme-image1.JPG" width=300> <img src="assets/images/readme-image2.JPG" width=250> <img src="assets/images/readme-image3.JPG" width=250>
+<img src="assets/images/readme-image4.JPG" width=250> <img src="assets/images/readme-image5.JPG" width=250> <img src="assets/images/readme-image6.JPG" width=250>
 <img src="assets/images/readme-image7.JPG" width=250> <img src="assets/images/readme-image8.JPG" width=250> <img src="assets/images/readme-image9.JPG" width=250>
 <img src="assets/images/readme-image10.JPG" width=250>
 
@@ -59,8 +59,8 @@ Acceptance Criteria –
 
 Images - 
 
-<img src="assets/images/readme-image1.JPG" width=300> <img src="assets/images/readme-image2.JPG" width=200> <img src="assets/images/readme-image3.JPG" width=250>
-<img src="assets/images/readme-image4.JPG" width=250> <img src="assets/images/readme-image5.JPG" width=200> <img src="assets/images/readme-image6.JPG" width=250>
+<img src="assets/images/readme-image1.JPG" width=300> <img src="assets/images/readme-image2.JPG" width=250> <img src="assets/images/readme-image3.JPG" width=250>
+<img src="assets/images/readme-image4.JPG" width=250> <img src="assets/images/readme-image5.JPG" width=250> <img src="assets/images/readme-image6.JPG" width=250>
 <img src="assets/images/readme-image7.JPG" width=250> <img src="assets/images/readme-image8.JPG" width=250> <img src="assets/images/readme-image9.JPG" width=250>
 <img src="assets/images/readme-image10.JPG" width=250>
 
@@ -77,8 +77,8 @@ Acceptance Criteria –
 
 Images - 
 
-<img src="assets/images/readme-image1.JPG" width=300> <img src="assets/images/readme-image2.JPG" width=200> <img src="assets/images/readme-image3.JPG" width=250>
-<img src="assets/images/readme-image4.JPG" width=250> <img src="assets/images/readme-image5.JPG" width=200> <img src="assets/images/readme-image6.JPG" width=250>
+<img src="assets/images/readme-image1.JPG" width=300> <img src="assets/images/readme-image2.JPG" width=250> <img src="assets/images/readme-image3.JPG" width=250>
+<img src="assets/images/readme-image4.JPG" width=250> <img src="assets/images/readme-image5.JPG" width=250> <img src="assets/images/readme-image6.JPG" width=250>
 <img src="assets/images/readme-image7.JPG" width=250> <img src="assets/images/readme-image8.JPG" width=250> <img src="assets/images/readme-image9.JPG" width=250>
 <img src="assets/images/readme-image10.JPG" width=250>
 
