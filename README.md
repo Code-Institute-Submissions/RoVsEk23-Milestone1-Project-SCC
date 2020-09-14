@@ -18,7 +18,7 @@ The site consists of a
 4.	Gallery Page
 5.	Contact Us page
 
-### WIREFRAMES - 
+### WIREFRAMES -- 
 
 For Desktop
 1. https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/wireframes/milestone-project1-wireframe-desktop.pdf
