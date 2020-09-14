@@ -20,13 +20,16 @@ The site consists of a
 
 ### WIREFRAMES - 
 
-1. https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=7bdc4e95-3318-475f-84be-c1f781695216
+For Desktop
+1. https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/wireframes/milestone-project1-wireframe-desktop.pdf
 
-2. https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=0606e596-2215-4d3f-911b-a5bf39ffc695
+For Mobile
+
+2. https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/wireframes/milestone-project1-wireframe-mobile.pdf
 
 
 ### User stories A– 
-As a cricket player, I am looking for options with local cricket clubs.
+As a cricket player, I am looking for membership options with local cricket clubs.
 
 Acceptance Criteria – 
 1.	User has options on every page to register and receive additional information.
@@ -39,30 +42,30 @@ Acceptance Criteria –
 
 Images - 
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=7c14733a-b795-42a0-8576-42f3cee6c6cc
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image1.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=7c14733a-b795-42a0-8576-42f3cee6c6cc
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image2.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=bdbfcf72-69cd-4b35-9fa5-243f6199e770
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image3.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=545f1af2-3b77-4509-8b5a-75132f019151
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image4.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=00cf343e-6150-414e-8cd7-dd9d0a4f23d2
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image5.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=51122535-8101-4bbf-9bd5-438c1fab885a
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image6.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=8dab2aee-630a-49fa-bfa2-5e3ae3a53b94
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image7.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=9a349762-e673-4bc6-a1ed-eeb3b940d571
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image8.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=8a98750d-491d-426f-aaa2-ff51b50decb3
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image9.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=6ae3979f-8b9b-4c18-9f4d-0e4ed5140945
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image10.JPG
 
 
 
 ### User stories B– 
-As someone who is interested in cricket, I am looking to learn more about local cricket clubs.
+As someone who is interested in sporting activities, I am looking to learn more about local cricket clubs.
 
 Acceptance Criteria – 
 1.	User has options on every page to register and receive additional information.
@@ -72,25 +75,25 @@ Acceptance Criteria –
 
 Images - 
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=7c14733a-b795-42a0-8576-42f3cee6c6cc
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image1.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=7c14733a-b795-42a0-8576-42f3cee6c6cc
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image2.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=bdbfcf72-69cd-4b35-9fa5-243f6199e770
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image3.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=545f1af2-3b77-4509-8b5a-75132f019151
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image4.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=00cf343e-6150-414e-8cd7-dd9d0a4f23d2
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image5.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=51122535-8101-4bbf-9bd5-438c1fab885a
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image6.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=8dab2aee-630a-49fa-bfa2-5e3ae3a53b94
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image7.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=9a349762-e673-4bc6-a1ed-eeb3b940d571
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image8.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=8a98750d-491d-426f-aaa2-ff51b50decb3
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image9.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=6ae3979f-8b9b-4c18-9f4d-0e4ed5140945
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image10.JPG
 
 
 
@@ -105,25 +108,25 @@ Acceptance Criteria –
 
 Images - 
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=7c14733a-b795-42a0-8576-42f3cee6c6cc
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image1.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=7c14733a-b795-42a0-8576-42f3cee6c6cc
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image2.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=bdbfcf72-69cd-4b35-9fa5-243f6199e770
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image3.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=545f1af2-3b77-4509-8b5a-75132f019151
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image4.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=00cf343e-6150-414e-8cd7-dd9d0a4f23d2
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image5.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=51122535-8101-4bbf-9bd5-438c1fab885a
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image6.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=8dab2aee-630a-49fa-bfa2-5e3ae3a53b94
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image7.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=9a349762-e673-4bc6-a1ed-eeb3b940d571
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image8.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=8a98750d-491d-426f-aaa2-ff51b50decb3
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image9.JPG
 
-https://da67c87c-0209-42a2-bc45-1f758fd2287c.ws-eu01.gitpod.io/files/download/?id=6ae3979f-8b9b-4c18-9f4d-0e4ed5140945
+https://github.com/RoVsEk23/Milestone1-Project-SCC/blob/506aac8a37ae605cfe78de0359e736de17ad3014/assets/images/readme-image10.JPG
 
 
 
@@ -140,7 +143,18 @@ This a static site that was developed using HTML, CSS and Bootstrap. Other tools
 
 ### TESTING – 
 
-Responsive testing was conducted on all pages as well as testing on various mobile devices and tablets suing Chrome developer tools.
+I used the W3C Markup Validator and W3C CSS Validator Services to validate every page and check for syntax errors.
+
+Additional Testing
+The site was tested on Google Chrome, Firefox and Microsoft Edge.
+The website was viewed on a variety of devices such ranging from desktop, tablet, small, medium and large screen mobile devices.
+Testing was done to ensure that all pages were linking correctly.
+
+Sign Up form: Testing
+Go to the "Contact" page
+1. Submit an empty form - an error prompt about the required fields appears.
+2. Submit the form with an invalid email address - an error prompt appears.
+3. Submit the form with all inputs valid - a congratulations message appears.
 
 ### DEPLOYMENT – 
 
@@ -158,6 +172,7 @@ The project was deployed to GitHub pages by the following steps
 ### External Resources - 
 
 https://unsplash.com/ was primarily used to download images for banners across all pages.
+
 The following pages were used to source images for the Gallery page.
 https://www.bucksfreepress.co.uk/resources/images/10001282?type=responsive-gallery-fullscreen
 https://i2-prod.crewechronicle.co.uk/incoming/article15171576.ece/ALTERNATES/s615/0_PMR_CRE_180918HAS-01.jpg
@@ -170,13 +185,13 @@ https://henleycricketclub.co.uk/assets/img/latest-news/_W0J6930.jpg
 
 The fictional names on the teams page was generated from https://www.name-generator.org.uk/. 
 
-Text for the membership section on the about us page was taken from http://www.roffeycricketclub.co.uk/membership/. 
+Text for the membership section on the about us page was inspired by http://www.roffeycricketclub.co.uk/membership/. 
 
-Text for the fees section on the about us page was taken from https://www.eastgrinsteadcricketclub.org.uk/membership/. 
+Text for the fees section on the about us page was inspired by https://www.eastgrinsteadcricketclub.org.uk/membership/. 
 
 Google maps Embed link was used on the contact us page.
 
-Text for map directions on the contact us page was taken from https://crawley.gov.uk/culture/parks-and-open-spaces/gardens-and-parks/goffs-park. 
+Text for map directions on the contact us page was inspired by https://crawley.gov.uk/culture/parks-and-open-spaces/gardens-and-parks/goffs-park. 
 
 The source of the weather widget used on the contact us page was https://weatherwidget.io/.
 
