@@ -96,30 +96,40 @@ This a static site that was developed using HTML, CSS and Bootstrap. Other tools
 W3C Markup Validator and W3C CSS Validator Services were used to validate every page and check for syntax errors.
 
 Browser Testing
+
 The site was tested on Google Chrome, Firefox and Microsoft Edge. 
 
 Responsive Testing
+
 The website was viewed on a variety of devices such ranging from desktop, tablet, small, medium and large screen mobile devices. 
 
 Website manual testing procedure
 
 1. Header (same for all pages)
-All Header banner and Logo clicks link to the home page. 
-Home, About Us, Teams, Gallery and Contact Us clicks on the menu list link to the respective pages. 
+
+    All Header banner and Logo clicks link to the home page. 
+
+    Home, About Us, Teams, Gallery and Contact Us clicks on the menu list link to the respective pages. 
 
 2. Footer (Same for all pages)
-Social media buttons - Facebook, Twitter, Instagram and Youtube open in new browser tab. 
+
+    Social media buttons - Facebook, Twitter, Instagram and Youtube open in new browser tab. 
 
 3. Sign up buttons 
-On Home page, About Us page, teams page and Gallery page link to Contact page with Sign up form. 
+
+    On Home page, About Us page, teams page and Gallery page link to Contact page with Sign up form. 
 
 4. Sign Up form on the Contact page
-  a. When an empty form is submitted - an error prompt about the required fields appears.
-  b. When an invalid email address is entered - an error prompt appears on that field.
-  c. When the form has all valid inputs - a new page open with a congratulations message.
+
+    a. When an empty form is submitted - an error prompt about the required fields appears.
+  
+    b. When an invalid email address is entered - an error prompt appears on that field.
+  
+    c. When the form has all valid inputs - a new page open with a congratulations message.
 
 Known bugs
-  a. The Map section is not responsive on the contact page. It centers on desktop but not on devices smaller than 765px.
+
+    a. The Map section is not responsive on the contact page. It centers on desktop but not on devices smaller than 765px.
 
 ### DEPLOYMENT – 
 
