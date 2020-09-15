@@ -95,16 +95,30 @@ This a static site that was developed using HTML, CSS and Bootstrap. Other tools
 
 I used the W3C Markup Validator and W3C CSS Validator Services to validate every page and check for syntax errors.
 
-Additional Testing
-The site was tested on Google Chrome, Firefox and Microsoft Edge.
-The website was viewed on a variety of devices such ranging from desktop, tablet, small, medium and large screen mobile devices.
-Testing was done to ensure that all pages were linking correctly.
+Header (same for all pages)
+All Header banner and Logo clicks link to the home page. Pass.
+Home, About Us, Teams, Gallery and Contact Us clicks on the menu list link to the respective pages. 
 
-Sign Up form: Testing
-Go to the "Contact" page
-1. Submit an empty form - an error prompt about the required fields appears.
-2. Submit the form with an invalid email address - an error prompt appears.
-3. Submit the form with all inputs valid - a congratulations message appears.
+Footer (Same for all pages)
+Social media buttons - Facebook, Twitter, Instagram and Youtube open in new browser tab. 
+
+Sign up buttons 
+On Home page, About Us page, teams page and Gallery page link to Contact page with Sign up form. 
+
+Sign Up form
+On the Contact page
+1. When an empty form is submitted - an error prompt about the required fields appears.
+2. When an invalid email address is entered - an error prompt appears on that field.
+3. When the form has all valid inputs - a new page open with a congratulations message.
+
+Browser Testing
+The site was tested on Google Chrome, Firefox and Microsoft Edge. 
+
+Responsive Testing
+The website was viewed on a variety of devices such ranging from desktop, tablet, small, medium and large screen mobile devices. 
+
+Known bugs
+1. The Map section is not responsive on the contact page. It centers on desktop but not on devices smaller than 765px.
 
 ### DEPLOYMENT – 
 
